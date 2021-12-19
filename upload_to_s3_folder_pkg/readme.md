@@ -1,1 +1,0 @@
-## Package ready to be uploaded to PyPi
